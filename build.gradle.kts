@@ -35,6 +35,8 @@ dependencies {
     // THYMELEAF
     implementation("org.springframework.boot:spring-boot-starter-thymeleaf")
     implementation("nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect")
+    // VALIDATION
+    implementation("org.springframework.boot:spring-boot-starter-validation")
     // WEB
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
